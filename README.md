@@ -15,6 +15,11 @@ This project assumes you have have the following tools installed in order to mod
 
 ## Changelog
 
+## [0.3.0]
+### Changed
+- Minor adjustments to spline for better fit
+- Reduce amount surfaces for handle bolt/shaft
+
 ## [0.2.0]
 ### Changed
 - Diameter of spine assembly for higher printing tolerance
@@ -26,5 +31,6 @@ This project assumes you have have the following tools installed in order to mod
 ### Added
 - Initial design with low-tolerances for plastic prototypes
 
+[0.3.0]: https://github.com/andrewodri/rancilio-10060190-to-moen-m6320/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/andrewodri/rancilio-10060190-to-moen-m6320/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/andrewodri/rancilio-10060190-to-moen-m6320/tree/v0.1.0
