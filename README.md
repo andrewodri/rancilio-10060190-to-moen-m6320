@@ -15,8 +15,16 @@ This project assumes you have have the following tools installed in order to mod
 
 ## Changelog
 
+## [0.2.0]
+### Changed
+- Diameter of spine assembly for higher printing tolerance
+- Length of spline assembly to account for inconsistent spline cavity of handles
+- Diameter of D-broach for higher printing tolerance
+- Length of D-broach shaft to account for protrusion of entire assembly on initial plastic prototype
+
 ## [0.1.0]
 ### Added
 - Initial design with low-tolerances for plastic prototypes
 
+[0.2.0]: https://github.com/andrewodri/rancilio-10060190-to-moen-m6320/compare/v0.1.0...v0.2.0
 [0.1.0]: https://github.com/andrewodri/rancilio-10060190-to-moen-m6320/tree/v0.1.0
